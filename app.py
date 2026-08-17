@@ -13,11 +13,9 @@ from steps.step8_confusion_matrix import show_confusion_matrix
 from steps.step9_feature_importance import show_feature_importance
 
 
+st.set_page_config(page_title="ML Pipeline Studio", layout="wide")
 
-
-st.set_page_config(page_title="AutoML Platform", layout="wide")
-
-st.title("AutoML Platform")
+st.title("ML Pipeline Studio")
 st.caption("Upload any dataset — this platform automatically analyzes it, cleans it, visualizes it, and finds the best-performing machine learning model.")
 
 with st.expander("About This Platform", expanded=True):
