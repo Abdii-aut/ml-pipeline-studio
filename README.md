@@ -307,11 +307,10 @@ Issues and pull requests are welcome.
 [MIT License](LICENSE)
 
 ---
-
 ## Contact
 
-- LinkedIn: [add your LinkedIn URL]
-- GitHub: [add your GitHub profile URL]
+- LinkedIn: [linkedin.com/in/m-abdullah-8720b3354](https://www.linkedin.com/in/m-abdullah-8720b3354)
+- GitHub: [github.com/Abdii-aut](https://github.com/Abdii-aut)
 
 <div align="center">
 
