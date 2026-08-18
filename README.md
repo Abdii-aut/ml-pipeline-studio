@@ -79,22 +79,53 @@ salaries, or churn — only the uploaded file changes.
 
 <div align="center">
 
-**Dataset Overview & Data Quality Report**
-![Dataset Overview](screenshots/01_overview.png)
+**Dataset Overview**
+![Dataset Overview](01_overview.png)
 
-**Transparent Preprocessing Plan**
-![Preprocessing Plan](screenshots/02_preprocessing.png)
+**Preprocessing Plan**
+![Preprocessing Plan](02_preprocessing.png)
 
-**Data Visualization with Explanations**
-![Data Visualization](screenshots/03_visualization.png)
+**Data Visualization**
+![Data Visualization](03_visualization.png)
 
 **Model Comparison with Cross-Validation**
-![Model Comparison](screenshots/04_model_comparison.png)
+![Model Comparison](04_model_comparison.png)
 
 **Prediction Interface**
-![Prediction Interface](screenshots/05_prediction.png)
+![Prediction Interface](05_prediction.png)
+
+**Hyperparameter Tuning**
+![Hyperparameter Tuning](Hyperparamter%20Tuning.png)
+
+**Confusion Matrix**
+![Confusion Matrix](Confusion%20Matrix.png)
+
+**Classification Report**
+![Classification Report](Classification%20Report.png)
+
+**Feature Importance — Best Model**
+![Best Model](Best%20Model.png)
+
+**Batch Prediction**
+![Batch Prediction](Batch%20Prediction.png)
 
 </div>
+
+<details>
+<summary>More screenshots (numeric features, categorical features, column distribution, pipeline overview, target value detection)</summary>
+
+<div align="center">
+
+![Numeric Features](Numeric%20Features.png)
+![Categorical Features](Catagorical%20Features.png)
+![Column Distribution](columndistribution.png)
+![Pipeline Overview](pipline.png)
+![Target Value Detection](targetvalue.png)
+![Batch CSV Upload](Batch.csv.png)
+
+</div>
+
+</details>
 
 ---
 
